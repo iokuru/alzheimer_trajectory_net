@@ -1,0 +1,17 @@
+ # Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directories (Crucial to exclude the gigabytes of MRIs)
+data/
+manifests/
+
+# ML Experiment outputs
+checkpoints/
+logs/
+outputs/
+
+# OS specific files
+.DS_Store
+.ipynb_checkpoints/

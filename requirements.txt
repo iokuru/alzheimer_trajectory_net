@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+openpyxl
+scikit-learn
+nibabel
+scipy
+torch
+torchio
+tqdm
+SimpleITK
